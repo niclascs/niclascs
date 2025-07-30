@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Nicolas Cesar de Sousa
 
-**`Analista de Dados`** **`Desenvolvedor`**
+**`Analista de Dados`** | **`Desenvolvedor`**
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e possuo formação técnica em Desenvolvimento de Sistemas pela ETEC. Tenho grande interesse na área de dados, onde busco aplicar meus conhecimentos em programação, estruturação, tratamento e visualização de informações para gerar valor a partir dos dados.
 
