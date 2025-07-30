@@ -49,6 +49,22 @@ Meu nome é Nicolas Cesar de Sousa, sou estudante de Análise e Desenvolvimento 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"     
 />
+<img
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png"
+/>
+<img
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png"
+/>
 <img 
     align="left" 
     alt="VisualBasic" 
